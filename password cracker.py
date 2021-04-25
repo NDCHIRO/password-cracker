@@ -35,7 +35,7 @@ def bruteForce(guessPasswordList, actualPasswordHash):
     return wordFound
 
 
-# the password file (i didn't make this file it was made by HACK CLUB)
+# the password file (I didn't make this file)
 url = 'https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/Top12Thousand-probable-v2.txt'
 
 # the password you are searching in a file
